@@ -1,0 +1,353 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+    position: relative;
+}
+
+/* HEADER | MAIN-NAV */
+#header {
+    width: 100%;
+    background-color: black;
+    padding: 1rem;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+#main-nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#main-nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* CONTAINER */
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.pro-img {
+    border: 3px solid #ff4980;
+    background-color: transparent;
+    width: 250px;
+    height: 350px;
+    border-radius: 5px;
+    position: relative;
+}
+
+/* INTRO SECTION */
+#intro {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    height: 100%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 3rem 0;
+    /* width: 100%; */
+}
+
+.typewriter {
+    overflow: hidden;
+    border-right: .15em solid #ff4980;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .15em;
+    animation: 
+      typing 3.5s steps(40, end),
+      blink-caret .75s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #ff4980; }
+  }
+
+#intro .pro-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 20px;
+    left: -30px;
+    box-shadow: 1px 1px 1px 2px white;
+}
+
+.social-list a {
+    padding-right: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.heading {
+    border-bottom: 5px solid  #ff4980;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+/* ABOUT SECTION */
+#about {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 2rem 2rem;
+    height: 100%;
+}
+
+#about .heading {
+    margin: 0 14rem;
+}
+
+#about .pro-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 20px;
+    right: -30px;
+    box-shadow: 1px 1px 1px 2px white;
+}
+
+#about p {
+    word-wrap: break-word;
+    width: 70%;
+}
+
+/* PROJECTS SECTION */
+#projects {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;;
+}
+
+.list {
+    display: flex;
+    margin: 0 2rem;
+    flex-wrap: wrap;
+}
+
+.item {
+    border: 1px solid #ff4980;
+    border-radius: 5px;
+    width: 35vh;
+    height: 100%;
+    margin: 1rem auto;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    box-shadow: 1px 1px 1px 2px rgb(233, 176, 185);
+}
+
+.project:hover {
+    width: 30%;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+
+.list img {
+    width: 100%;
+    height: 50%;
+    border-radius: 5px 5px 0 0;
+}
+
+.proj-content {
+    padding: 0 8px 10px;
+}
+.project .button {
+    background-color: #ff4980;
+    border: 1px solid #ffff;
+    padding: 7px;
+    color: #ffff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.project .button:hover {
+    box-shadow: 20px 20px 20px 10px rgb(233, 176, 185) inset;
+    color: black;
+}
+
+.project .title {
+    padding-top: 1rem;
+}
+
+/* SKILLS SECTION */
+#skills {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem 3rem 2rem;
+    margin: 0 5rem;
+}
+
+.list {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+}
+
+.list i {
+    text-align: center;
+    padding: 1rem;
+}
+
+#skills .list div {
+    padding-top: 2px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.fa-html5 {
+    color: #F06529;
+}
+
+.fa-square-js {
+    color: #F0DB4F;
+}
+
+.fa-css3-alt {
+    color: #2965f1;
+}
+
+/* TIMELINE */
+#timeline {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem 3rem 2rem;
+}
+
+#timeline .list {
+    display: flex;
+    flex-direction: column;
+    margin: 0 2rem 2rem 2rem;
+}
+
+
+.title {
+    padding-bottom: 1rem;
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.duration {
+    padding-bottom: 1rem;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400px;
+    color: #ff4980;
+}
+
+.time {
+    padding: 2rem 1rem;
+}
+
+.left {
+    border-right: hidden;
+    border-top: hidden;
+    border-left: 3px dashed #ff4980;
+    border-bottom: 3px dashed #ff4980;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-right: 2rem;
+    
+}
+
+.right {
+    border-top: hidden;
+    border-left: hidden;
+    border-right: 3px dashed #ff4980;
+    border-bottom: 3px dashed #ff4980;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 2rem;
+}
+
+h4 {
+    margin: 1rem 0;
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+ul {
+    margin: 0;
+}
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+footer .social-list {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 10rem;
+}
+
+footer .social-list a {
+    color: black;
+    padding: 0 2rem;
+}
+
+/* MEDIA NOTICE */
+@media only screen and (max-width: 400px) {
+    .time {
+        padding: 0rem;
+        }
+
+    .project:hover {
+        width: 100%;
+        transition-property: width;
+        transition-duration: 0.5s;
+        transition-timing-function: ease;
+    }
+}
