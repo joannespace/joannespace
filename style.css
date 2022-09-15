@@ -70,7 +70,6 @@ body {
     align-items: center;
     text-align: center;
     padding: 3rem 0;
-    /* width: 100%; */
 }
 
 .typewriter {
@@ -126,12 +125,12 @@ body {
     flex-wrap: wrap;
     align-items: center;
     padding: 2rem 2rem;
-    height: 100%;
+    /* height: 100%; */
 }
 
-#about .heading {
+/* #about .heading {
     margin: 0 14rem;
-}
+} */
 
 #about .pro-img img {
     width: 100%;
@@ -145,7 +144,7 @@ body {
 
 #about p {
     word-wrap: break-word;
-    width: 70%;
+    width: 100%;
 }
 
 /* PROJECTS SECTION */
