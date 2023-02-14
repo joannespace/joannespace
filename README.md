@@ -13,7 +13,7 @@
 ---
 
 ### Connect with me:
-
+<img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>
 <a href="mailto:joannersq@gmail.com"><img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
 
 ### Languages and Tools:
