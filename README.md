@@ -8,7 +8,7 @@
 - 🔮 Studying 🇨🇳 (你好) and 🇹🇭 (สวัสดี)
 - ️🎹 Getting back with my piano lessions
 - ️🥊 2023 Goals: Get IT job & my driver license 😊
-- 🎃 Fun fact: I love to draw and learn new languages
+- 🎃 Fun facts: I love to draw and learn new languages
 
 ---
 
@@ -31,3 +31,7 @@
 <img align="left" alt="Redux" width="26px" src="./elements/redux.svg" style="padding-right:10px;" />
 <img align="left" alt="Scrum" width="26px" src="./elements/scrum-1.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCode" width="26px" src="./elements/vscode-original.svg" style="padding-right:10px;" />
+
+### Skills & knowledge
+
+<img align="center" alt="Skills & knowledge" src="./elements/skill-knowledge.svg" />
