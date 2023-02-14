@@ -15,6 +15,5 @@
 ### Connect with me:
 
 [Joanne](mailto:joannersq@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-<a href="mailto:joannersq@gmail.com"><img alt="email" src="/elements/envelope-solid.svg" width="20" color="#ffff"/></a>
 
 ### Languages and Tools:
