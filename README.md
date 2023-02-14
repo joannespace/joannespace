@@ -36,6 +36,7 @@
 
 <br />
 <br />
+
 ### 🍀 Connect with me
 
 <a href="https://www.linkedin.com/in/joannersq/"><img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/><span align="center">https://www.linkedin.com/in/joannersq/</span></a>
