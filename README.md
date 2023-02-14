@@ -14,8 +14,7 @@
 
 ### Connect with me:
 
-[!(./elements/linkedin.sgv)](https://www.linkedin.com/in/joannersq/)
-[(./elements/envelope-solid.sgv)](mailto:joannersq@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-<img src="./elements/envelope-solid.sgv" alt="email" href="mailto:joannersq@gmail.com" />
+[Joanne](mailto:joannersq@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<a href="mailto:joannersq@gmail.com"><img alt="email" src="/elements/envelop-solid.svg" width="128"/></a>
 
 ### Languages and Tools:
