@@ -21,11 +21,11 @@
 <img align="left" alt="Redux" width="26px" src="./elements/redux.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJS" width="26px" src="./elements/nodejs-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="MongoDB" width="26px" src="./elements/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCode" width="26px" src="./elements/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./elements/github-icon-1.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="./elements/jira-3.svg" style="padding-right:10px;" />
 <img align="left" alt="Scrum" width="26px" src="./elements/scrum-1.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="./elements/mongodb-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
