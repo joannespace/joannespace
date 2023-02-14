@@ -12,12 +12,6 @@
 
 ---
 
-### 🍀 Connect with me
-
-<a href="https://www.linkedin.com/in/joannersq/"><img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>https://www.linkedin.com/in/joannersq/</a>
-<br />
-<img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/> joannersq@gmail.com
-
 ### 🌟 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="./elements/html5-original.svg" style="padding-right:10px;" />
@@ -39,3 +33,11 @@
 ### 👑 Skills & knowledge
 
 <img align="center" alt="Skills & knowledge" src="./elements/skill-knowledge.png" />
+
+<br />
+<br />
+### 🍀 Connect with me
+
+<a align="center" href="https://www.linkedin.com/in/joannersq/"><img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>https://www.linkedin.com/in/joannersq/</a>
+&nbsp;&nbsp;
+<img align="center" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/> joannersq@gmail.com
