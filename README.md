@@ -18,6 +18,6 @@
 <a href="mailto:joannersq@gmail.com"><img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
 
 <img align="top" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<a href="mailto:joannersq@gmail.com"><img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
+<a href="mailto:joannersq@gmail.com" align="left"><img align="left" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
 
 ### Languages and Tools:
