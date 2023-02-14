@@ -13,10 +13,10 @@
 ---
 
 ### Connect with me:
-<img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>
-<img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/>
-
-<img align="top" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<a href="mailto:joannersq@gmail.com" align="left"><img align="left" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
+  <img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/> 
+  <img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/>
+  
+  [![website](./elements/linkedin-icon-2.svg)]([https://codestackr.com#gh-light-mode-only](https://www.linkedin.com/in/joannersq/))
+  [![](./elements/official-gmail-icon-2020.svg)](Joanne)
 
 ### Languages and Tools:
