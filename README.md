@@ -39,6 +39,6 @@
 
 ### 🍀 Connect with me
 
-<a href="https://www.linkedin.com/in/joannersq/"><img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>https://www.linkedin.com/in/joannersq/</a>
-&nbsp;&nbsp;
-<a href="mailto:joannersq@gmail.com" style="display:inline-block;"><img alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/>joannersq@gmail.com</a>
+<a href="https://www.linkedin.com/in/joannersq/"><img align="center" alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/>https://www.linkedin.com/in/joannersq/</a>
+<br />
+<a href="mailto:joannersq@gmail.com" style="display:inline-block;"><img align="center" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/>joannersq@gmail.com</a>
