@@ -40,5 +40,4 @@
 ### 🍀 Connect with me
 
 <a href="https://www.linkedin.com/in/joannersq/"><img alt="LinkedIn" src="./elements/linkedin-icon-2.svg" width="26px" style="padding-right:10px;"/></a>
-
-<a href="mailto:joannersq@gmail.com"><img align="center" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a
+<a href="mailto:joannersq@gmail.com" style="display:inline-block;"><img align="center" alt="Gmail" src="./elements/official-gmail-icon-2020.svg" width="26px" style="padding-right:10px;"/></a>
