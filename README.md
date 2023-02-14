@@ -16,6 +16,6 @@
 
 [!(./elements/linkedin.sgv)](https://www.linkedin.com/in/joannersq/)
 [(./elements/envelope-solid.sgv)](mailto:joannersq@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-<img src="./elements/envelope-solid.sgv" alt="email" />(mailto:joannersq@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<img src="./elements/envelope-solid.sgv" alt="email" href="mailto:joannersq@gmail.com" />
 
 ### Languages and Tools:
