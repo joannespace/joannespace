@@ -32,6 +32,8 @@
 <img align="left" alt="Scrum" width="26px" src="./elements/scrum-1.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCode" width="26px" src="./elements/vscode-original.svg" style="padding-right:10px;" />
 
+<br />
+
 ### Skills & knowledge
 
-<img align="center" alt="Skills & knowledge" src="./elements/skill-knowledge.svg" />
+<img align="center" alt="Skills & knowledge" src="./elements/skill-knowledge.png" />
